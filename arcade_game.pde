@@ -2,6 +2,7 @@
 // Author: Gabriel Sullivan
 // Purpose: This program is a game where you must fight off enemies by shooting bullets at them.
 //          The enemies come in waves.
+//          This was created for CPSC220 with Dr. Thiep Pham at Kutztown University
 // Keyboard Commands: A/left arrow for left movement, D/right arrow for right movement, space to shoot
 // Images under free use license from Pixabay.
 
